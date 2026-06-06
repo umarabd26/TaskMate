@@ -38,11 +38,11 @@ TaskMate adalah aplikasi Android sederhana untuk membantu mahasiswa mencatat dan
 5. Tekan tombol simpan
 6. Tugas akan muncul di halaman utama
 
-## Anggota Kelompok
+## Anggota Kelompok 5
 
-* Nama 1
-* Nama 2
-* Nama 3
+* Umar Abdurrahman
+* Azzahra Syahbila
+* Patra Adi Pratama
 
 ## Kredit
 
